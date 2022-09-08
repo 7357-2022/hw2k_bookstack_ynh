@@ -61,7 +61,9 @@ To try the testing branch, please proceed like that.
 
 ``` bash
 sudo yunohost app install https://github.com/7357-2022/hw2k_bookstack_ynh/tree/testing --debug
+```
 or
+```
 sudo yunohost app upgrade bookstack -u https://github.com/7357-2022/hw2k_bookstack_ynh/tree/testing --debug
 ```
 
