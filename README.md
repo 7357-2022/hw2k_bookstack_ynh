@@ -46,6 +46,7 @@ For the first time Login with standard authentication, use the default credentia
 
 ## Documentation and resources
 
+* YunoHost app: <https://github.com/YunoHost-Apps/bookstack_ynh>
 * Official app website: <https://www.bookstackapp.com>
 * Official user documentation: <https://www.bookstackapp.com/docs/user/>
 * Official admin documentation: <https://www.bookstackapp.com/docs/admin/>
